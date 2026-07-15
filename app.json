@@ -1,4 +1,7 @@
 {
   "name": "Telemetry",
-  "svgContent": "<path d=\"M2 12h3l2-5 3 10 3-13 3 11 2-3h4\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path><circle cx=\"10\" cy=\"17\" r=\"1.5\" fill=\"currentColor\"></circle><circle cx=\"13\" cy=\"4\" r=\"1.5\" fill=\"currentColor\"></circle><circle cx=\"16\" cy=\"15\" r=\"1.5\" fill=\"currentColor\"></circle>"
+  "svgContent": "<path d=\"M2 12h3l2-5 3 10 3-13 3 11 2-3h4\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path><circle cx=\"10\" cy=\"17\" r=\"1.5\" fill=\"currentColor\"></circle><circle cx=\"13\" cy=\"4\" r=\"1.5\" fill=\"currentColor\"></circle><circle cx=\"16\" cy=\"15\" r=\"1.5\" fill=\"currentColor\"></circle>",
+  "files":[
+    "index.vue"
+  ]
 }
